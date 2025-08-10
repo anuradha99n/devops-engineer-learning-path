@@ -34,7 +34,7 @@ Output:<br>
 ```bash 
 ls -l
 ```
-Output:
+Output:</br>
 <img src="./assets/ls-l.png"/>
 
 > <b>Structure</b><br>
@@ -43,14 +43,14 @@ Output:
 ```bash
 ls -lh
 ```
-Output:
+Output:</br>
 <img src="./assets/ls-lh.png">
 
 * <b>Show all files, including hidden ones</b>
 ```bash
 ls -a
 ```
-Output:
+Output:</br>
 <img src="./assets/ls-a.png">
 
 You can see there are special directories named as `.` and `..` . I will talk about in next section.
@@ -67,7 +67,7 @@ You can use this if this directory is in current directory.
 ```bash
 cd media
 ```
-Output:
+Output:</br>
 <img src="./assets/cd-1.png">
 
 Example:
