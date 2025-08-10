@@ -25,7 +25,7 @@ The `ls` command shows you what’s inside the current folder.
 ```bash
 ls
 ```
-Output:
+Output:<br>
 <img src="./assets/ls.png"/>
 
 > 💡 <b>Tip: `ls` have more useful 🚩flags</b>
